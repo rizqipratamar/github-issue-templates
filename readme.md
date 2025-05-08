@@ -1,4 +1,4 @@
-## A collection of GitHub issue and pull request templates
+## A collection of GitHub issue and pull request templates 1
 
 *Update*: GitHub now also supports [multiple issue templates](https://help.github.com/articles/about-issue-and-pull-request-templates/).
 
